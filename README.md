@@ -103,7 +103,7 @@ It is recommended that you use `virtualenv` (especially for `conda` users).
       --delete          Delete the music file after sending.
       --help            Show this message and exit.
 
-## Contribute
+## Contribute  :heart:  :green_heart:  :purple_heart:
 
 This is a very young project. If you have got any suggestions for new features or improvements, please comment over here. Pull Requests are most welcome !
 
