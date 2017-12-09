@@ -1,8 +1,8 @@
-# MobOff [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)   :tada:
+# MobOff [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  
 
 > A command line tool to add your music and videos directly to several devices.
 
-## Why? [![forthebadge](http://forthebadge.com/images/badges/for-you.svg)](http://forthebadge.com)
+## Why?
 
 Almost all of us use youtube for our music purposes, whether it is a new single released by Eminem or an old classic by Queen. 
 
@@ -14,7 +14,7 @@ There is a need for a tool which would directly download and convert the video, 
 
 ### Enters *MobOff*.
 
-## Features [![forthebadge](http://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](http://forthebadge.com)
+## Features 
 
 * Download the best available audio, or video (by `--video` option) in common mobile player compatible extensions.
 * Playlists can also be downloaded.
@@ -103,7 +103,7 @@ It is recommended that you use `virtualenv` (especially for `conda` users).
       --delete          Delete the music file after sending.
       --help            Show this message and exit.
 
-## Contribute  :heart:  :green_heart:  :purple_heart:
+## Contribute  :heart: :heart:  :heart: 
 
 This is a very young project. If you have got any suggestions for new features or improvements, please comment over here. Pull Requests are most welcome !
 
